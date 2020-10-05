@@ -1,0 +1,4 @@
+Pump1 = Marrom (joga no T4 e T2)
+Pump2 = Branca (joga no T3 e T1)
+Calibração do T3:
+f(x) = 0.003552x - 20.85
